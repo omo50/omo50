@@ -1,9 +1,8 @@
 # 👋 Hi, I’m @omo50, aka omoso
-FOSS enjoyer, modpack developer with 100k+ downloads. You most likely know me from Re-Console, the most successful LCE modpack on Modrinth.
+FOSS enjoyer, modpack developer with 130k+ downloads. You most likely know me from Re-Console, the most successful LCE modpack on Modrinth.
 
-I am an aspiring Geometry Dash player and creator. I generally spend time in the Globed community specifically.
-
-At this current moment, I am not extraordinarily active in the Minecraft community.
+I am an aspiring Geometry Dash player and creator. I'm also a helper for the Globed mod!
+I'm experienced in specifically making performance modpacks for Minecraft, and LCE related projects such as Re-Console
 
 ## Where can i find you?
 Discord, Modrinth and nowhere else.
