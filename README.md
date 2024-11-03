@@ -2,7 +2,7 @@
 FOSS enjoyer, GD player, modpack developer with 300k+ downloads. You most likely know me from Re-Console, the most successful LCE modpack on Modrinth.
 
 ## ❓ Who are you, what have you made?
-I'm most involved in the Minecraft modding scene. My most notable project is Re-Console, which is the most successful modpack of its kind, alongside being the 7th most followed project on Modrinth!
+I'm most involved in the Minecraft modding scene. My most notable project is Re-Console, which is the most successful modpack of its kind, alongside being the 6th most followed project on Modrinth!
 
 I am also involved in Vital, originally by Devin, which is a fabric modpack alternative to the Essential Mod. I am involved in some way in over 20 projects, with more modpacks on the way soon!
 
