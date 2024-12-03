@@ -1,3 +1,8 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omo50&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 Minecraft Modpack Developer most known for Re-Console, founder of Violaflower Modding and Stonecutter Modding.
 - Modpack Developer with 400k+ downloads
 - [Legacy Edition Minigames](https://github.com/Legacy-Edition-Minigames/Minigames) Moderator
