@@ -10,7 +10,6 @@ Minecraft Modpack Developer most known for Re-Console, founder of Violaflower Mo
 
 ### ❓  What projects do you work on?
 - [Re-Console](https://modrinth.com/modpack/legacy-minecraft), and the [Re-Console Server Software](https://modrinth.com/modpack/re-console-server-software)
-- [Legacy Reborn](https://modrinth.com/modpack/legacy-reborn)
 - [Vital](https://modrinth.com/modpack/vital)
 
 Alongside this, I maintain many resource packs, such as the [Tutorial World Addon](https://modrinth.com/resourcepack/tutorial-world-addon), [Mash-Up Addon](https://modrinth.com/resourcepack/mash-up-addon) and a few more.
