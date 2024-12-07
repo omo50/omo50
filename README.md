@@ -3,7 +3,7 @@
 
 
 
-Minecraft Modpack Developer most known for Re-Console, founder of Violaflower Modding and Stonecutter Modding.
+Minecraft Modpack Developer most known for Re-Console, founder of Violaflower Modding.
 - Modpack Developer with 400k+ downloads
 - [Legacy Edition Minigames](https://github.com/Legacy-Edition-Minigames/Minigames) Moderator
 - [Globed](https://github.com/GlobedGD/globed2) Moderator
