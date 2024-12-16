@@ -16,3 +16,6 @@ Alongside this, I maintain many resource packs, such as the [Tutorial World Addo
 
 ### 🎹 What do you like to do?
 Outside of modding, I am an ameteur musician, vinyl collector and history fanatic.
+
+### 💭 Where can I find you?
+Discord is @omo50, find me on [Bluesky](https://bsky.app/profile/omo50.bsky.social)
