@@ -3,7 +3,7 @@
 
 
 
-Minecraft Modpack Developer most known for Re-Console, founder of Violaflower Modding.
+Minecraft Modpack Developer most known for Re-Console, founder of AffogatoMC.
 - Modpack Developer with 500k+ downloads
 - [Legacy Edition Minigames](https://github.com/Legacy-Edition-Minigames/Minigames) Moderator
 - [Globed](https://github.com/GlobedGD/globed2) Moderator
