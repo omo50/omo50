@@ -7,7 +7,6 @@ Minecraft Modpack Developer most known for Re-Console, co-founder of Nostalgica 
 - Modpack Developer with 1 millon downloads
 - [Legacy Edition Minigames](https://github.com/Legacy-Edition-Minigames/Minigames) Moderator
 - [Globed](https://github.com/GlobedGD/globed2) Moderator
-- [Violaflower Modding](https://modrinth.com/organization/violaflower) organization lead
 
 ### ❓  What projects do you work on?
 - [Re-Console](https://modrinth.com/modpack/legacy-minecraft)
